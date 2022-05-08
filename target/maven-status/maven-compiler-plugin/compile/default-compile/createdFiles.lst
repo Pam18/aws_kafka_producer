@@ -1,1 +1,3 @@
+br/com/aws_kafka_producer/service/PropertiesConfig.class
 br/com/aws_kafka_producer/App.class
+br/com/aws_kafka_producer/service/KafkaProducerService.class
